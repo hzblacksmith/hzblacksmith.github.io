@@ -3,7 +3,6 @@ logo: "/images/logo_circle.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Senior @ Rice University studying sport management and computer science
   <a href="https://www.twitter.com/hzblacksmith">Twitter</a>
-  <br><br>
   <a href="https://www.linkedin.com/in/lifan-frank-li/">LinkedIn</a>
   
 theme: jekyll-theme-minimal

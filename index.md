@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Shot Arc Analysis: Understanding Offensive and Defensive Impacts](https://github.com/hzblacksmith/SSAC_Hackathon_2020-Shot_Arc_Analysis/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -12,7 +12,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[NBA Offensive & Defensive Rating Calculation](https://github.com/hzblacksmith/Calculating_Off_Def_Ratings)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---

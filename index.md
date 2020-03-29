@@ -16,7 +16,6 @@
 ---
 [Houston Rockets Ticket Price Analysis](https://github.com/hzblacksmith/SMGT_490_Houston_Rockets_Ticket_Price_Analysis)
 <img src="images/RocketsSeating.jpg?raw=true"/>
----
 
 
 ---

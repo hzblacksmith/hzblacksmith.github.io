@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Shot Arc Analysis: Understanding Offensive and Defensive Impacts](https://github.com/hzblacksmith/SSAC_Hackathon_2020-Shot_Arc_Analysis/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/ssac_logo.jpg?raw=true"/>
 
 ---
 [Rookie Wall: Does it really Exist?](/pdf/sample_presentation.pdf)

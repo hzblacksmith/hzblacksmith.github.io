@@ -1,29 +1,23 @@
 ## Portfolio
 
----
-
-### Category Name 1 
+--- 
 
 [Shot Arc Analysis: Understanding Offensive and Defensive Impacts](https://github.com/hzblacksmith/SSAC_Hackathon_2020-Shot_Arc_Analysis/)
 <img src="images/ssac_logo.jpg?raw=true"/>
 
 ---
-[Rookie Wall: Does it really Exist?](/pdf/sample_presentation.pdf)
+[Rookie Wall: Does it really Exist?](https://github.com/hzblacksmith/stat405_final_project-rookie_wall)
 <img src="images/LukaWall.jpg?raw=true"/>
 
 ---
 [NBA Offensive & Defensive Rating Calculation](https://github.com/hzblacksmith/Calculating_Off_Def_Ratings)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/nba_stats_logo.png?raw=true"/>
 
 ---
+[Houston Rockets Ticket Price Analysis](https://github.com/hzblacksmith/SMGT_490_Houston_Rockets_Ticket_Price_Analysis)
+<img src="images/RocketsSeating.jpg?raw=true"/>
+---
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 

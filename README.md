@@ -1,6 +1,6 @@
 ## Frank Li Portfolio
 
-This is my portfolio to showcase various projects, mostly in sports!
+Welcome to my portfolio where you can check out my various projects, mostly in sports!
 
 ### References
 

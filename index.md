@@ -9,7 +9,7 @@
 
 ---
 [Rookie Wall: Does it really Exist?](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/LukaWall.jpg?raw=true"/>
 
 ---
 [NBA Offensive & Defensive Rating Calculation](https://github.com/hzblacksmith/Calculating_Off_Def_Ratings)

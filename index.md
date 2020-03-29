@@ -14,7 +14,7 @@
 <img src="images/nba_stats_logo.png?raw=true"/>
 
 ---
-[Houston Rockets Ticket Price Analysis](https://github.com/hzblacksmith/SMGT_490_Houston_Rockets_Ticket_Price_Analysis)
+[The Earlier the Better? Houston Rockets Ticket Price Analysis](https://github.com/hzblacksmith/SMGT_490_Houston_Rockets_Ticket_Price_Analysis)
 <img src="images/RocketsSeating.jpg?raw=true"/>
 
 

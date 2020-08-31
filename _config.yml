@@ -1,10 +1,11 @@
 title: Frank Li # your name (or website title) here
 logo: "/images/logo_circle.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Senior @ Rice University studying sport management and computer science
+  Data Analyst @ Aborn & Co.
+  Rice University Computer Science & Sport Management '20
   <a href="https://www.twitter.com/hzblacksmith">Twitter</a>
   <br><br>
   <a href="https://www.linkedin.com/in/lifan-frank-li/">LinkedIn</a>
   
 theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+google_analytics: UA-176822747-1 # your Google Analytics tracking ID here
